@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="10532347289348" >
+
+    <task
+        name="javac"
+        duration="400" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="355" />
+    <task
+        name="verifier"
+        duration="71" />
+
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Foursquare-2.8.0_9a4db6dcf6956beb48787afb227eab56fac3381c\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-KaiXin-2.8.0_2bed16b1051aab8f28e10d4fd84b69d4e5b42675\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-2.8.0_84d7f3fc3badd6b798aa969abbd45869325c705d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.1222.1756_41aca3d31998fcdef6ba0dd9886e97a79b7ecec5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-GooglePlus-2.8.0_6f27103df8f1b5ea3d253cdff5e1dd5a331ce2ba\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-ShortMessage-2.8.0_57a70950fa8e4c92ec70c96eb48f7037315ff82a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Instapaper-2.8.0_d4a81464fc5fb09fc65932d051e8e4f1702b4e2d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.8.0_7964caf2147bd24f9d3163e2100bd2f411683b66\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3f591a72754ddf0e6994a968c5e11293ee73fe1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-KakaoStory-2.8.0_63161c48fbed463ed7e0795d8e7b6e03237b22d9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.8.0_22c44b88829686a6b3413aaf054643129c6c66c2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Yixin-2.8.0_3bff2e39fbce2597cf41357d622ecb81382b8256\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Email-2.8.0_b410c7876fd60f231567fbca024fc77ecf379a69\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Evernote-2.8.0_cebc56184cb4e958219b6d94df4e7e15ad22f020\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Pocket-2.8.0_441d5be2b2d5e081766398ba7487dcfc50887107\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Mingdao-2.8.0_6d3aec5f5a36f92b6e466436620eeffa5b1490eb\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Pinterest-2.8.0_87dc02fef0e99d77ea5901d9a574cddd5518bae2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-YouDao-2.8.0_cd2e8cf0d9cb7a52ef6d1a13019652c58bd09675\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_692cd0c4c4fca1f178b7b01e3b2b55687081dc45\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Yixin-Moments-2.8.0_d10e795ce89d3e0c3b9a509e6162a3fe075f1669\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Linkedin-2.8.0_d5d3cde977aeb4863ddce01acdb86352ff290a11\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Instagram-2.8.0_9b4f7b7e038c15f5600d2a655651f9054042503f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.8.0_657dada5c4cdbee9f4b77b112bf1f251a3dd9d86\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Twitter-2.8.0_62b094a29d2925224c1c29e45e71cb41229e5137\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-WhatsApp-2.8.0_72c22ca976d96baddcba60993659c876907d78b4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.8.0_abc44a0c31723f2125d9deaf4093383d8d35635a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Facebook-2.8.0_3c5163fc269f7fcfd795068e48a1bca13ace3e64\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Flickr-2.8.0_23e3fb1046062a8597657b7bae6fcc9b0a947b83\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.1222.1756_5491fd193a7986323717d8fc36e6c78b9246ffee\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Kakao-Core-2.8.0_ed3e20e588710c1edf68578c490dbcca4f894092\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Douban-2.8.0_5bb9938ff367337f85a7adb3763ffedccac2f30a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-FacebookMessenger-2.8.0_312c3d9d650f9f7f3b85445584c8998ed4a02e24\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Line-2.8.0_2d8b39cef74d939a37ede9966f69459018335079\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Dropbox-2.8.0_d7a21b9e53010fd6fbbecdf54b673677a616c030\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-Core-2.8.0_bd4d82c7b54bbcac7513f17cffd9dafde06c6741\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-Moments-2.8.0_3367067cc90a32becad00afae5514a834805e8f2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Yixin-Core-2.8.0_d367d01ee059774b48f67afc89316f514abe6d2d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-VKontakte-2.8.0_619700f797b080293cb865a49daf1fa161918ffe\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-TencentWeibo-2.8.0_6ab4213d5817a5a3ad489bc26db6901d0b93ca1a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-KakaoTalk-2.8.0_e083179acd9d684160b9084bb0bb51cc4fdc2bd6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.8.0_18f020c23d51fb8675bbda30d2086c289ad33d7f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Tumblr-2.8.0_adc711268635d287bfc1bf2fab08c4051b3d8b07\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Renren-2.8.0_b7bf10d418b9264954af5c0318127b7ec6d315d7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.8.0_387df51a9d23ede241ab9666782e65ea4af5546c\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.8.0_3aac454c2b6047dd1549787f849c15dd15539748\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Users\libin\workspace\Day36\demo\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.8.0_a58f572576845c46a54e5b993aa3c8c3666bc728\classes.dex"
+        type="DEX" />
+
+</instant-run>

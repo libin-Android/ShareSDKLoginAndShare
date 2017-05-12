@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Users\libin\workspace\ShareSDKLoginAndShare\ShareLoginDemo\src\main\assets"><file name="ShareSDK.xml" path="D:\Users\libin\workspace\ShareSDKLoginAndShare\ShareLoginDemo\src\main\assets\ShareSDK.xml"/></source><source path="D:\Users\libin\workspace\ShareSDKLoginAndShare\ShareLoginDemo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Users\libin\workspace\ShareSDKLoginAndShare\ShareLoginDemo\src\debug\assets"/></dataSet></merger>
